@@ -1,1 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Manufacturing+Consent&display=swap');
+
+:root {
+    --cor-principal: #FFA100;
+    --cor-escuro: #514538;
+    --cor-secundaria: #b8a99a;
+    --cor-azulclaro: #00d683;
+    --cor-azulescuro: #009d51;
+    --cor-branco: #ffffff;
+    --cor-preto: #000000;
+}
